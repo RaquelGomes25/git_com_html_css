@@ -1,7 +1,11 @@
-# mod2w3
-mod2w3
+# mod2 Projeto modelo
 
-# PROJETO MODELO GIT
+
+# PROJETO MODELO 
+
+FAÇA UM PROJETO UTILIZANDO O CONTEÚDO DO MÓDULO (HTML, CSS, GIT E GITHUB)
+
+Utilize o leia-me (README) para explicar seu projeto, aqui a criativade é livre ok!
 
 ### COMANDOS BASICOS PARA UTILIZAR O GIT:
 
